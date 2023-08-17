@@ -142,6 +142,7 @@ function handleKeyDown(event) {
   }
 }
 
+
 // Add the event listener
 window.addEventListener("keydown", handleKeyDown);
 
