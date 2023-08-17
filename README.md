@@ -19,13 +19,13 @@ The player will also have access to hints.
 
 ## Getting Started
 
-do not nullify please git 
+https://simplehang.netlify.app/
 
 ## Screenshots
 
-![image](https://git.generalassemb.ly/rehan/HANGMAN-GAME/blob/main/HANGMAN-1.png)
+![image](https://github.com/rehanhussa/HANGMAN/blob/main/HANGMAN-1.png)
 
-![image](https://git.generalassemb.ly/rehan/HANGMAN-GAME/blob/main/HANGMAN-2.png)
+![image](https://github.com/rehanhussa/HANGMAN/blob/main/HANGMAN-2.png)
 
 
 
