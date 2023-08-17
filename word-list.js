@@ -35,6 +35,46 @@ const wordList = [
     word: "airplane",
     hint: "A fixed-wing aircraft that is propelled forward by thrust from a jet engine.",
   },
+  {
+    word: "book",
+    hint: "A medium for recording information in the form of writing or images.",
+  },
+  {
+    word: "glasses",
+    hint: "A device that helps the eyes focus.",
+  },
+  {
+    word: "shoes",
+    hint: "An item of footwear intended to protect and comfort the human foot.",
+  },
+  {
+    word: "phone",
+    hint: "A telecommunications device that permits two or more users to conduct a conversation.",
+  },
+  {
+    word: "table",
+    hint: "A piece of furniture with a flat top and one or more legs.",
+  },
+  {
+    word: "chair",
+    hint: "A piece of furniture with a raised surface supported by legs.",
+  },
+  {
+    word: "door",
+    hint: "A hinged or otherwise movable barrier that allows ingress into and egress from an enclosure.",
+  },
+  {
+    word: "window",
+    hint: "An opening in a wall, door, roof or vehicle that allows the passage of light.",
+  },
+  {
+    word: "car",
+    hint: "A wheeled motor vehicle used for transportation.",
+  },
+  {
+    word: "motorcycle",
+    hint: "A two- or three-wheeled motor vehicle.",
+  }
 ];
 
 export default wordList;
