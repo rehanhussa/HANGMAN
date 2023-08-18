@@ -90,15 +90,3 @@ When the player wants to start a new game: - Select a new random word. - Reset g
 
 
 7. Repeat: - Keep the game loop running until the player decides to stop.
-
-
-| DAY        | TASK                   | BLOCKERS               | NOTES        |
-|------------|------------------------|------------------------|--------------|
-| FRIDAY     | FINISH HTML & CSS      | KEYBOARD FUNCTIONALITY |              |
-| SATURDAY   | RESEARCH JAVA CONCEPTS |                        |              |
-| SUNDAY     | CODE LOGIC             |                        |              |
-| MONDAY     | ADD FUNCTIONS          |                        |              |
-| TUESDAY    | FUNCTIONALITY          |                        |              |
-| WEDENESDAY | FINISH MVP & ICEBOX    |                        |              |
-| THURSDAY   | ADD EXTRA STYLING      |                        | NOT TOO MUCH |
-| FRIDAY     | PRESENT                |                        |              |
