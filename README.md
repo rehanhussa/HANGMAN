@@ -53,8 +53,7 @@ I wanted to create a clean and simple Hangman game to show off my CSS and Javasc
 
 
 ## BUGS 
-1. Will occasionally get a error when booting up the game:
- - Failed to load resource: the server responded with a status of 404 (Not Found)
+1. 
 
 ## Next Steps
 * Game menu screen to start the game.
